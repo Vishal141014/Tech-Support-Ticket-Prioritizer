@@ -1,0 +1,11 @@
+ticket_id,text,language,category,priority
+1001,"Application keeps crashing when I try to save my work. This is very frustrating as I've lost hours of work.",en,bug,critical
+1002,"How do I export my data to PDF format?",en,query,low
+1003,"Le système ne me permet pas de me connecter avec mon mot de passe habituel.",fr,bug,high
+1004,"I think you should add a dark mode feature to reduce eye strain.",en,feature,medium
+1005,"No puedo encontrar donde cambiar la configuración de idioma.",es,query,medium
+1006,"There's a security vulnerability in the login page that allows bypassing authentication.",en,bug,critical
+1007,"Der Download-Button funktioniert nicht im Firefox Browser.",de,bug,high
+1008,"Could you add the ability to tag colleagues in comments?",en,feature,low
+1009,"アプリが起動しない。黒い画面が表示されるだけ。",ja,bug,high
+1010,"How do I reset my password?",en,query,medium 

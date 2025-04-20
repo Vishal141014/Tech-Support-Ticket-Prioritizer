@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "T3001",
+    "timestamp": "2021-05-10T08:23:45Z",
+    "customer": {
+      "id": "C12345",
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "account_tier": "premium"
+    },
+    "product": "Cloud Storage Pro",
+    "subject": "Unable to access files after update",
+    "description": "Since the latest update, I cannot access any of my stored files. The system shows an error 'Invalid file path' whenever I try to open anything.",
+    "metadata": {
+      "browser": "Chrome 90.0.4430.93",
+      "os": "Windows 10",
+      "device": "Desktop"
+    },
+    "history": [
+      {
+        "action": "created",
+        "timestamp": "2021-05-10T08:23:45Z",
+        "agent": null
+      },
+      {
+        "action": "assigned",
+        "timestamp": "2021-05-10T08:45:12Z",
+        "agent": "A678"
+      }
+    ]
+  },
+  {
+    "ticket_id": "T3002",
+    "timestamp": "2021-05-10T12:15:33Z",
+    "customer": {
+      "id": "C45678",
+      "name": "Emily Johnson",
+      "email": "emily.j@example.com",
+      "account_tier": "standard"
+    },
+    "product": "Invoice Generator",
+    "subject": "Feature request: Dark mode",
+    "description": "I'd love to see a dark mode option in the next update. Working with bright screens at night causes eye strain.",
+    "metadata": {
+      "browser": "Firefox 88.0",
+      "os": "macOS 11.3",
+      "device": "Laptop"
+    },
+    "history": [
+      {
+        "action": "created",
+        "timestamp": "2021-05-10T12:15:33Z",
+        "agent": null
+      }
+    ]
+  },
+  {
+    "ticket_id": "T3003",
+    "timestamp": "2021-05-11T15:42:19Z",
+    "customer": {
+      "id": "C98765",
+      "name": "Michael Wong",
+      "email": "mwong@example.com",
+      "account_tier": "enterprise"
+    },
+    "product": "Database Manager",
+    "subject": "Critical: Data loss during migration",
+    "description": "During our migration to the new version, approximately 30% of our customer records were lost. This is causing severe operational issues. Need immediate assistance.",
+    "metadata": {
+      "browser": "Edge 90.0.818.51",
+      "os": "Windows Server 2019",
+      "device": "Server"
+    },
+    "history": [
+      {
+        "action": "created",
+        "timestamp": "2021-05-11T15:42:19Z",
+        "agent": null
+      },
+      {
+        "action": "assigned",
+        "timestamp": "2021-05-11T15:43:05Z",
+        "agent": "A123"
+      },
+      {
+        "action": "escalated",
+        "timestamp": "2021-05-11T15:50:22Z",
+        "agent": "A123"
+      }
+    ]
+  }
+] 

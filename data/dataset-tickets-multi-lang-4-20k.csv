@@ -1,0 +1,11 @@
+ticket_id,text,language,category,priority,resolution_time,customer_satisfaction
+2001,"Server keeps going down every hour, affecting all our clients",en,bug,critical,4.5,1
+2002,"Would it be possible to implement two-factor authentication for admin accounts?",en,feature,high,24,4
+2003,"我无法更改我的个人资料照片，每次尝试都会收到错误信息",zh,bug,medium,12,2
+2004,"Documentation for the API is outdated and missing key endpoints",en,documentation,medium,48,3
+2005,"Il sistema di ricerca non funziona con caratteri speciali",it,bug,high,8,2
+2006,"Need urgent help! Database is corrupted and we're losing customer data",en,bug,critical,2,1
+2007,"How do I integrate your product with Salesforce?",en,query,low,72,5
+2008,"The login page looks terrible on mobile devices",en,design,medium,36,3
+2009,"Pourriez-vous ajouter une option pour exporter les données en format Excel?",fr,feature,low,96,4
+2010,"System sends duplicate notifications to users",en,bug,medium,24,3 
