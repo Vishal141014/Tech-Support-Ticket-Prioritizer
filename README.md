@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Tech-Support-Ticket-Prioritizer
-An AI-powered tech support ticket classification and prioritization system. This project automatically categorizes support tickets and assigns priority levels based on content, helping support teams focus on the most critical issues first.
+## An AI-powered tech support ticket classification and prioritization system. This project automatically categorizes support tickets and assigns priority levels based on content, helping support teams focus on the most critical issues first.
 =======
 # Tech Support Ticket Prioritizer
 
@@ -65,8 +64,7 @@ The Tech Support Ticket Prioritizer is a MERN stack application designed to stre
 ### Backend Setup
 1. Clone the repository
    ```
-   git clone https://github.com/Vishal141014/Ai_customer_support.git
-   ```
+   git clone https://github.com/Vishal141014/Tech-Support-Ticket-Prioritizer
 
 2. Navigate to server directory
    ```
@@ -177,4 +175,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - React.js for frontend
 - Node.js for backend
 - TensorFlow and scikit-learn for ML components
->>>>>>> 6a2f0e42 (first commit)
